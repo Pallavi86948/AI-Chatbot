@@ -1,0 +1,24 @@
+react/
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+
+├── public/
+│   └── assets/
+│       └── 
+
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── index.css
+│
+│   └── components/
+│       ├── Welcome.jsx               
+│       ├── DateSelector.jsx
+│       ├── SessionSelector.jsx
+│       ├── TimeSlotSelection.jsx
+│       ├── NameInput.jsx
+│       ├── PaymentProcessing.jsx
+│       └── ConfirmationScreen.jsx
